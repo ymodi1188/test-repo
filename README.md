@@ -1,2 +1,2 @@
 # test-repo
-ese hi farzi repo h
+ese hi farzi repo //
